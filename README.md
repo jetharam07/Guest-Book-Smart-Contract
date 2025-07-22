@@ -7,15 +7,15 @@ The contract allows users to write entries with their name and message, which ar
 👉 Watch here: Guestbook Smart Contract on Solana Playground (🔗 paste your YouTube video link here)
 
 📌 Key Points
-✅ Written in Rust using Anchor
-✅ Deployed & tested directly on Solana Playground
-❌ No frontend or full Anchor project structure included
-🧪 Testing done without integration or frontend (not deployed via local Anchor CLI)
+.✅ Written in Rust using Anchor
+.✅ Deployed & tested directly on Solana Playground
+.❌ No frontend or full Anchor project structure included
+.🧪 Testing done without integration or frontend (not deployed via local Anchor CLI)
 
 🛠️ Technologies Used
-Solana
-Anchor framework
-Solana Playground IDE
+.Solana
+.Anchor framework
+.Solana Playground IDE
 
 📁 Repo Contents
 lib.rs – Contains only the smart contract logic (Guestbook program).
