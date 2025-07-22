@@ -12,6 +12,14 @@ The contract allows users to **write entries** with their name and message, whic
 🔗 *(Paste your YouTube video link here)*
 
 ---
+## 🔍 Explorer Link
+
+You can view the deployed Guestbook smart contract on **Solana Explorer**:
+
+🔗 [Guestbook Program on Solana Explorer (Devnet)](https://explorer.solana.com/address/Cf2bnoyUYDxN5e6jAJzKXgvQpFrxhwSe8LLKjvPchPXR?ref=hub.despread.io&cluster=devnet)
+
+> **Program ID:** `Cf2bnoyUYDxN5e6jAJzKXgvQpFrxhwSe8LLKjvPchPXR`
+---
 
 ## 📌 Key Points
 
