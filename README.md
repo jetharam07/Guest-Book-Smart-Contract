@@ -9,7 +9,7 @@ The contract allows users to **write entries** with their name and message, whic
 
 🎥 I’ve made a full walkthrough of this Guestbook smart contract:  
 👉 **Watch here:** *Guestbook Smart Contract on Solana Playground*  
-🔗 *(Paste your YouTube video link here)*
+🔗 *(https://youtu.be/5DTr6ACCwYY?si=25K15kA9Hda5AhNO)*
 
 ---
 ## 🔍 Explorer Link
